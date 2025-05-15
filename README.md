@@ -14,7 +14,6 @@ Untuk mencegah hal ini semakin parah, manajer departemen HR ingin meminta bantua
 - Selain itu, proyek ini juga berfokus pada evaluasi kepuasan karyawan berdasarkan sejumlah parameter penting seperti Job Satisfaction, Work-Life Balance, dan Environment Satisfaction. Dengan memahami pola perilaku karyawan yang cenderung keluar—misalnya dampak dari jarak rumah ke kantor, intensitas lembur (OverTime), serta tingkat pendapatan—perusahaan dapat mengambil langkah yang lebih efektif untuk meningkatkan retensi.
 - Sebagai solusi, proyek ini juga menyediakan business dashboard yang memungkinkan tim HR memantau dan menganalisis faktor penyebab attrition secara berkala, sehingga strategi dapat disusun dengan lebih tepat sasaran. 
 
-
 ### Cakupan Proyek
 
 Proyek ini mencakup:
