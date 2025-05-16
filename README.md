@@ -36,9 +36,11 @@ Proyek ini mencakup:
 1. Install library:
 ```bash
 pip install -r requirements.txt
-``` 
+```
+
 2. Jalankan Notebook
    Gunakan Google Colab atau Jupyter Notebook untuk membuka `notebook.ipynb` dan eksekusi cell dari atas ke bawah.
+   
 3. Menjalankan Dashboard
       Untuk melihat isi dashboard secara langsung, dapat menggunakan **metabase** dengan bantuan Docker (pastikan Docker sudah terinstall).
    - Jalankan perintah berikut:
@@ -54,6 +56,9 @@ pip install -r requirements.txt
       username: root@mail.com
       password: root123
       ```
+4. Menjalankan File `Prediction.py`
+   - silahkan copy folder pkl_file ke direktori D terlebih dahulu
+   - jika sudah silahkan buka dan jalankan `Prediction.py`
 ---
 
 ## 📊 Business Dashboard
