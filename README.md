@@ -115,10 +115,10 @@ Sebagai eksperimen, dilakukan modeling klasifikasi untuk menguji kemampuan mempr
 Berdasarkan analisis yang telah dilakukan terhadap data karyawan Jaya Jaya Maju, ditemukan bahwa attrition karyawan dipengaruhi oleh kombinasi beberapa faktor.
 
 1.  Karakteristik Umum Karyawan yang Attrition:
-   - Memiliki **masa kerja kurang dari 3 tahun**.
-   - Sering melakukan **lembur (OverTime = Yes)**.
-   - **Gaji bulanan berada di kelompok menengah ke bawah**.
-   - Tingkat **kepuasan terhadap lingkungan kerja rendah** (EnvironmentSatisfaction < 3).
+  - Memiliki **masa kerja kurang dari 3 tahun**.
+  - Sering melakukan **lembur (OverTime = Yes)**.
+  - **Gaji bulanan berada di kelompok menengah ke bawah**.
+  - Tingkat **kepuasan terhadap lingkungan kerja rendah** (EnvironmentSatisfaction < 3).
 
 2. Karakteristik Khusus:
    - Paling banyak berasal dari **Departemen Sales** dan **Research & Development**.
